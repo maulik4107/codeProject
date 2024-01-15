@@ -1,2 +1,0 @@
- uname : maulik
- password: maulik
