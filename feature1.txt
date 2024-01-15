@@ -2,3 +2,4 @@ Add some design feature at feature branch.
 
 Add some more feature regarding design at same branch
 
+Solved 1 important design issue on feature1 branch
